@@ -1,9 +1,10 @@
 {
-  "name": "eslint-config-bgr-ember",
+  "name": "@bagaar/eslint-config-ember",
   "version": "0.2.2",
-  "description": "EsLint config for Bagaar Ember addons and applications.",
+  "description": "EsLint config for Bagaar Ember addons and projects.",
   "keywords": [
     "bagaar",
+    "bgr",
     "config",
     "ember",
     "eslint",
@@ -11,14 +12,14 @@
   ],
   "license": "MIT",
   "author": "Bagaar",
-  "repository": "https://git.bagaar.be/shelf/front-end/eslint-config-bgr-ember",
-  "main": "index.js",
+  "repository": "https://github.com/Bagaar/eslint-config-ember",
+  "main": "lib/index.js",
   "scripts": {
     "test": "eslint tests"
   },
   "devDependencies": {
-    "eslint": "^5.6.1",
-    "eslint-config-bgr": "^0.3.1",
+    "@bagaar/eslint-config": "^0.4.0",
+    "eslint": "^5.7.0",
     "eslint-plugin-ember": "^5.2.0"
   }
 }

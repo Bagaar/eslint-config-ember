@@ -9,7 +9,7 @@ export default Component.extend({
   objectValue: OBJECT.VALUE,
   string: 'value',
 
-  init(...args) {
-    this._super(...args);
+  init() {
+    this._super(...arguments);
   },
 });

@@ -1,26 +1,38 @@
-# EsLint Config Bagaar Ember
+# Bagaar EsLint Config Ember
 
-Badges go here.
+![Bagaar Logo](https://bagaar.be/hubfs/logo-bagaar-black.svg)
 
-Bagaar logo goes here.
+**`@bagaar/eslint-config-ember` is built and maintained by [Bagaar](http://bagaar.be).**
 
-**eslint-config-bgr-ember is built and maintained by [Bagaar](http://bagaar.be).**
-
-EsLint config for Bagaar Ember applications.
+EsLint config for Bagaar Ember addons and projects.
 
 ## Installation
 
-```shell
-# npm
-npm install eslint-config-bgr-ember --save-dev
+⚠️ **`@bagaar/eslint-config-ember` depends on `@bagaar/eslint-config`. Make sure to install `@bagaar/eslint-config` as well.**
 
-# yarn
-yarn add eslint-config-bgr-ember --dev
+### npm
+
+```shell
+npm install @bagaar/eslint-config @bagaar/eslint-config-ember --save-dev
 ```
 
-## Contribution Guidelines
+### yarn
 
-Describe the contribution guidelines.
+```shell
+yarn add @bagaar/eslint-config @bagaar/eslint-config-ember --dev
+```
+
+## Usage
+
+Add `@bagaar/eslint-config-ember` to the `extends` array of your `.eslintrc.js` file.
+
+```javascript
+// .eslintrc.js
+
+extends: [
+  '@bagaar/eslint-config-ember',
+],
+```
 
 ## License
 
