@@ -18,7 +18,7 @@
     "test": "eslint tests"
   },
   "devDependencies": {
-    "@bagaar/eslint-config": "^0.4.0",
+    "@bagaar/eslint-config": "^0.5.0",
     "eslint": "^5.12.1",
     "eslint-plugin-ember": "^6.2.0"
   }
