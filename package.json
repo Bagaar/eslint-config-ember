@@ -15,11 +15,13 @@
   "repository": "https://github.com/Bagaar/eslint-config-ember",
   "main": "lib/index.js",
   "scripts": {
-    "test": "eslint tests"
+    "test": "eslint tests",
+    "release": "standard-version"
   },
   "devDependencies": {
     "@bagaar/eslint-config": "^0.5.0",
     "eslint": "^5.12.1",
-    "eslint-plugin-ember": "^6.2.0"
+    "eslint-plugin-ember": "^6.2.0",
+    "standard-version": "^4.4.0"
   }
 }
