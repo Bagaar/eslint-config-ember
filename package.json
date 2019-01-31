@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@bagaar/eslint-config": "^0.4.0",
-    "eslint": "^5.7.0",
-    "eslint-plugin-ember": "^5.2.0"
+    "eslint": "^5.12.1",
+    "eslint-plugin-ember": "^6.2.0"
   }
 }
