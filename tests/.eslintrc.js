@@ -9,8 +9,8 @@ module.exports = {
   ],
   extends: [
     'eslint:recommended',
-    'plugin:ember/recommended',
     '@bagaar/eslint-config',
+    'plugin:ember/recommended',
     '../lib/index.js',
   ],
   env: {
