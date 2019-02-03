@@ -19,7 +19,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "@bagaar/eslint-config": "^0.5.0",
+    "@bagaar/eslint-config": "^0.5.1",
     "eslint": "^5.12.1",
     "eslint-plugin-ember": "^6.2.0",
     "standard-version": "^4.4.0"
