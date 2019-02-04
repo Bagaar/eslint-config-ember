@@ -1,6 +1,6 @@
 {
   "name": "@bagaar/eslint-config-ember",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "EsLint config for Bagaar Ember addons and projects.",
   "keywords": [
     "bagaar",
