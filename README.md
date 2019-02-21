@@ -16,7 +16,7 @@ EsLint config for Bagaar Ember addons and projects.
 
 ## Installation
 
-⚠️ **`@bagaar/eslint-config-ember` overrides rules provided by the [`ember-plugin-eslint`](https://github.com/ember-cli/eslint-plugin-ember) plugin. Make sure it is installed and configured properly.**
+⚠️ **`@bagaar/eslint-config-ember` overrides rules provided by the [`eslint-plugin-ember`](https://github.com/ember-cli/eslint-plugin-ember) plugin. Make sure at least `v6.2.0` is installed and configured properly.**
 
 ### NPM
 
